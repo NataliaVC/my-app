@@ -1,0 +1,37 @@
+{
+  "jsonpeliculas": [
+      {
+      "title": "Romeo y Julieta",
+      "director": "Shekspeare",
+      "year": "1990",
+      "raiting": "8.5"
+
+    },
+
+      {
+      "title": "Apocalypto",
+      "director": "Mel Gibson",
+      "year": "1999",
+      "raiting": "9.5"
+
+    },
+
+      {
+      "title": "Lucho se embriago en el paseo",
+      "director": "Fercho",
+      "year": "2021",
+      "raiting": "7.5"
+
+    },
+
+      {
+      "title": "La familia Belier",
+      "director": "Lucho",
+      "year": "1997",
+      "raiting": "8.5"
+
+      }
+
+
+  ]
+}

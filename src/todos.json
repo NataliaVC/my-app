@@ -1,0 +1,29 @@
+{
+  "todos": [
+      {
+      "title": "Romeo y Julieta",
+      "director": "Shekspeare",
+      "year": "1990",
+      "raiting": "8.5"
+
+      }
+    {
+      "title": "El rito",
+      "director": "Jonhy Deep",
+      "year": "1987",
+      "raiting": "9.4"
+    },
+    {
+      "title": "Apocalypto",
+      "director": "Mel Gibson",
+      "year": "1997",
+      "raiting": "10"
+    },
+    {
+      "title": "Kill Bill",
+      "director": "Quentin Tarantino",
+      "year": "1967",
+      "raiting": "9.8"
+    }
+  ]
+}
